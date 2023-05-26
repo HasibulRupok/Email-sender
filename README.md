@@ -20,3 +20,8 @@ My app collects email addresses from an Excel file and sends emails to each of t
 8. Completion and logging: Once all the emails have been sent, this app may display a completion message or log relevant information, such as the number of successful deliveries, any failed deliveries, and any errors encountered.
 
 It's important to note that when sending bulk emails, you should follow the appropriate email sending guidelines and policies, such as avoiding spamming, respecting privacy regulations, and ensuring that recipients have provided consent to receive emails from you. Additionally, some email service providers may have specific limitations or restrictions on the number of emails you can send in a given time period.
+
+
+## License
+
+This project is licensed under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/). You are free to download and use this application, but you must provide appropriate credit to the original authors.
